@@ -6,7 +6,7 @@ A machine learning web application that predicts whether an employee earns above
 
 Experience the application in action without any setup!
 
-👉 [Click here to launch the Live Demo]([https://github.com/harishpullagurla/employee-salary-predictor)  
+👉 [Click here to launch the Live Demo](https://harishpullagurla-employee-salary-predictor.streamlit.app/)  
 
 ## 📋 Table of Contents
 
@@ -149,7 +149,6 @@ age,experience,workclass,educational-num,marital-status,occupation,relationship,
 
 ```
 employee-salary-predictor/
-├──.venv/
 ├── app.py                      
 ├── preprocessing.ipynb   
 ├── encoders.pkl                       
@@ -201,7 +200,7 @@ Follow the notebook cells for the complete training pipeline.
 
 **Your Name** - [harish140707@gmail.com](mailto:harish140707@gmail.com)
 
-**Project Link**: [https://github.com/harishpullagurla/employee-salary-predictor](https://github.com/harishpullagurla/employee-salary-predictor)
+**Project Link**: [https://github.com/harishpullagurla/employee-salary-predictor](https://harishpullagurla-employee-salary-predictor.streamlit.app/)
 
 ---
 
