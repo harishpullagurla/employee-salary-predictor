@@ -200,7 +200,7 @@ Follow the notebook cells for the complete training pipeline.
 
 **Your Name** - [harish140707@gmail.com](mailto:harish140707@gmail.com)
 
-**Project Link**: [https://github.com/harishpullagurla/employee-salary-predictor](https://harishpullagurla-employee-salary-predictor.streamlit.app/)
+**Project Link**: [https://harishpullagurla-employee-salary-predictor.streamlit.app/](https://harishpullagurla-employee-salary-predictor.streamlit.app/)
 
 ---
 
